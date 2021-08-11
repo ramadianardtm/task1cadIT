@@ -9,7 +9,7 @@ const data2 = 'salary_data.json';
 //const final_data = data1.map(a => Object.assign(a, data2.find(b => b.id == a.id)));
 
 const listEmp = document.querySelector('#emp-list');
-
+//TASK 1 CADIT
 const getListEmp = ()=>{
     fetch(data_user)//atau langsung dari link
         .then(response =>{
