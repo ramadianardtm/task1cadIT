@@ -17,6 +17,7 @@
       "phone": "1-770-736-8031 x56442",
       "website": "hildegard.org",
       "salaryInIDR": 4.001111510555328e6,
+      "salaryInUSD": 278.009,
       "company": {
         "name": "Romaguera-Crona",
         "catchPhrase": "Multi-layered client-server neural-net",
@@ -41,6 +42,7 @@
       "phone": "010-692-6593 x09125",
       "website": "anastasia.net",
       "salaryInIDR": 4685534.363816402,
+      "salaryInUSD": 325.565,
       "company": {
         "name": "Deckow-Crist",
         "catchPhrase": "Proactive didactic contingency",
@@ -65,6 +67,7 @@
       "phone": "1-463-123-4447",
       "website": "ramiro.info",
       "salaryInIDR": 3013601.6163306856,
+      "salaryInUSD": 209.394,
       "company": {
         "name": "Romaguera-Jacobson",
         "catchPhrase": "Face to face bifurcated interface",
@@ -89,6 +92,7 @@
       "phone": "493-170-9623 x156",
       "website": "kale.biz",
       "salaryInIDR": 9.619331420029558e6,
+      "salaryInUSD": 668.38,
       "company": {
         "name": "Robel-Corkery",
         "catchPhrase": "Multi-tiered zero tolerance productivity",
@@ -112,7 +116,8 @@
       },
       "phone": "(254)954-1289",
       "website": "demarco.info",
-      "salaryInIDR": 8.380696500881106e6, 
+      "salaryInIDR": 8.380696500881106e6,
+      "salaryInUSD": 582.316, 
       "company": {
         "name": "Keebler LLC",
         "catchPhrase": "User-centric fault-tolerant solution",
@@ -137,6 +142,7 @@
       "phone": "1-477-935-8478 x6430",
       "website": "ola.org",
       "salaryInIDR": 9091824.554498984,
+      "salaryInUSD": 631.728, 
       "company": {
         "name": "Considine-Lockman",
         "catchPhrase": "Synchronised bottom-line interface",
@@ -161,6 +167,7 @@
       "phone": "210.067.6132",
       "website": "elvis.io",
       "salaryInIDR": 6.996573171622309e6,
+      "salaryInUSD": 486.143, 
       "company": {
         "name": "Johns Group",
         "catchPhrase": "Configurable multimedia task-force",
@@ -185,6 +192,7 @@
       "phone": "586.493.6943 x140",
       "website": "jacynthe.com",
       "salaryInIDR": 3.910254930004663e6,
+      "salaryInUSD": 271.696,
       "company": {
         "name": "Abernathy Group",
         "catchPhrase": "Implemented secondary concept",
@@ -209,6 +217,7 @@
       "phone": "(775)976-6794 x41206",
       "website": "conrad.com",
       "salaryInIDR": 5.968429287836904e6,
+      "salaryInUSD": 414.705,
       "company": {
         "name": "Yost and Sons",
         "catchPhrase": "Switchable contextually-based project",
@@ -233,6 +242,7 @@
       "phone": "024-648-3804",
       "website": "ambrose.net",
       "salaryInIDR": 5.9648082820075266e6,
+      "salaryInUSD": 414.453,
       "company": {
         "name": "Hoeger LLC",
         "catchPhrase": "Centralized empowering task-force",

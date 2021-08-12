@@ -34,7 +34,7 @@ const getListEmp = ()=>{
                                 Address : ${item.address.street}, ${item.address.suite}, ${item.address.city}, ${item.address.zipcode}<br>
                                 Phone : ${item.phone}<br>
                                 Salary in IDR : Rp. ${item.salaryInIDR}<br>
-                                Salary in USD :<br>
+                                Salary in USD : $. ${item.salaryInUSD}<br>
                                 Latitude : ${item.address.geo.lat}<br>
                                 Longitude : ${item.address.geo.lng}
 
